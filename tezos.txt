@@ -1,0 +1,3 @@
+I am attesting that this GitHub handle claudiofrancesconi is linked to the Tezos account tz1Sub4RqGgUCsTpuwnV4c7UURcASgugbo9Z for tzprofiles
+
+sig:edsigteqGtdSowupmVadJr5y3fY9KWM1gdxQkx3w5FpqTC3QZapmygGDskLajL8UQWmipAD8d7YEQwDdY4AresKRw7gEMKbUptf
